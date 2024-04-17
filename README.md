@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Andrea del Rosario López Condori, a computer 
 - 🌱 I’m always learning new techniques and best practices to enhance my frontend development skills and create engaging user interfaces.
 - 👯 I’m looking to collaborate on frontend-focused projects that push the boundaries of web design and interactivity.
 - 💬 Ask me about anything related to HTML, CSS, JavaScript, or front-end frameworks like React or Vue.js!
-- 📫 You can reach me via email at [aloepzco@unsa.edu.pe](mailto:alopezco@unsa.edu.pe).
+- 📫 You can reach me via email at [alopezco@unsa.edu.pe](mailto:alopezco@unsa.edu.pe).
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm passionate about accessibility in web design and strive to create inclusive user experiences in all my projects.
 
